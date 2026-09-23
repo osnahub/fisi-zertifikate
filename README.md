@@ -2,6 +2,8 @@
 
 ## Praxisguide für sinnvolle IT-Zertifizierungen in der Systemintegration
 
+[![Lizenz: CC BY 4.0](https://img.shields.io/badge/Lizenz-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 Herstellerzertifikate können eine Ausbildung oder Umschulung zum **Fachinformatiker für Systemintegration (FiSi)** sinnvoll ergänzen. Entscheidend ist allerdings nicht die Zahl der Badges im Lebenslauf, sondern ob ein Nachweis zum eigenen Tätigkeitsfeld passt und Kenntnisse bestätigt, die im späteren Berufsalltag tatsächlich gebraucht werden.
 
 Dieser Guide ordnet verbreitete Zertifizierungen und Lernnachweise nach ihrem Nutzen für typische FiSi-Themen ein: **Netzwerke, Windows Server und Active Directory, Linux, Cloud, IT-Sicherheit, Endpoint-Management, Backup und IT-Service-Management**.
@@ -979,3 +981,12 @@ Für Preise, Prüfungsinhalte und Gültigkeitsregeln wurden vorrangig die offizi
 ## Hinweise und Beiträge
 
 Prüfungsprogramme, Preise und Zertifizierungsregeln ändern sich regelmäßig. Hinweise auf veraltete Angaben, Fehler oder sinnvolle Ergänzungen können über ein GitHub-Issue oder einen Pull Request eingebracht werden.
+
+
+---
+
+## Lizenz
+
+Der Inhalt dieses Repositories steht unter der **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Nutzung, Weitergabe und Bearbeitung sind damit ausdrücklich erlaubt, sofern die Urheberschaft genannt, auf die Lizenz verwiesen und Änderungen kenntlich gemacht werden.
+
+Details stehen in der Datei [LICENSE](LICENSE).
